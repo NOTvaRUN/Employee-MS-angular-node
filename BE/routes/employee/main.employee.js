@@ -1,5 +1,20 @@
 
-let EMPLOYEE = []
+let EMPLOYEE = [
+    {
+        "id": "emp_0",
+        "name": "varun",
+        "dob": "28 Apr 2022",
+        "email": "varun.nayak@gmail.com",
+        "country": "India"
+    },
+    {
+        "id": "emp_1",
+        "name": "Rahul",
+        "dob": "28 Apr 2021",
+        "email": "Rahul@gmail.com",
+        "country": "Indias"
+    }
+]
 class EmployeeController {
 
     /**
